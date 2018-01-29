@@ -54,7 +54,7 @@ Loan amount term
 
 The vast majority of the loans had a term of 360 months, so I just use this to fill in the missing values.
  Note that term of 350 occurs only once and it is in the test set. 
-I’ll just assume that this was a misstype and should be 360. Similary, the 6 was probably meant to be 60.
+Iâ€™ll just assume that this was a misstype and should be 360. Similary, the 6 was probably meant to be 60.
 -----------------------------------------------------------------------------
 
 Log tranformation 
